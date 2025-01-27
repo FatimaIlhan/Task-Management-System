@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\migrations\\20250122175156_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\migrations\\20250122175156_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\task-management-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\task-management-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|solutionrelative:task-management-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F130B0EF-58D4-436F-95FE-E8D0312E47EE}|Task-Management-API\\Task-Management-API.csproj|c:\\users\\somali community\\desktop\\task-management-system\\task mangement\\backend\\task-management-api\\task-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,118 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250122175156_initialmigration.cs",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Migrations\\20250122175156_initialmigration.cs",
-              "RelativeDocumentMoniker": "Task-Management-API\\Migrations\\20250122175156_initialmigration.cs",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Migrations\\20250122175156_initialmigration.cs",
-              "RelativeToolTip": "Task-Management-API\\Migrations\\20250122175156_initialmigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T17:51:57.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Task-Management-API\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Controllers\\UserController.cs",
               "RelativeToolTip": "Task-Management-API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswDkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T17:24:15.353Z",
+              "WhenOpened": "2025-01-27T18:06:02.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Program.cs",
-              "RelativeDocumentMoniker": "Task-Management-API\\Program.cs",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Program.cs",
-              "RelativeToolTip": "Task-Management-API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T17:00:04.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Models\\TaskDbContext.cs",
-              "RelativeDocumentMoniker": "Task-Management-API\\Models\\TaskDbContext.cs",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Models\\TaskDbContext.cs",
-              "RelativeToolTip": "Task-Management-API\\Models\\TaskDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:50:14.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Task-Management-API\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Models\\User.cs",
-              "RelativeToolTip": "Task-Management-API\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:49:45.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\appsettings.json",
               "RelativeDocumentMoniker": "Task-Management-API\\appsettings.json",
               "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\appsettings.json",
               "RelativeToolTip": "Task-Management-API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T16:43:10.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Task-Management-API\\DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "Task-Management-API\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:42:55.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Task-Management-API\\DTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "Task-Management-API\\DTOs\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:42:18.83Z",
+              "WhenOpened": "2025-01-27T16:31:25.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Task-Management-API",
-              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Task-Management-API.csproj",
-              "RelativeDocumentMoniker": "Task-Management-API\\Task-Management-API.csproj",
-              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Task-Management-API.csproj",
-              "RelativeToolTip": "Task-Management-API\\Task-Management-API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-22T16:40:46.944Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Program.cs",
+              "RelativeDocumentMoniker": "Task-Management-API\\Program.cs",
+              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Task-Management-System\\Task Mangement\\Backend\\Task-Management-API\\Task-Management-API\\Program.cs",
+              "RelativeToolTip": "Task-Management-API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:08:11.182Z",
               "EditorCaption": ""
             }
           ]
